@@ -1,0 +1,19 @@
+html, body{
+    padding: 0;
+    margin: 0;
+}
+#menu{
+    width: 100vw;
+    background-color: gray;
+    height: 10vh;
+}
+.menupont{
+    display: inline-block;
+    width: 25%;
+    height: 10vh;
+    padding-top: 5vh;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border: solid gray 1px;
+}
